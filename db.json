@@ -1,0 +1,47 @@
+{
+  "post": [
+    {
+      "id": 1,
+      "title": "tester",
+      "name": "Laurence"
+    },
+    {
+      "title": "DevTeamServer",
+      "name": "New Name",
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "title": "Mr",
+      "name": "JSONServer",
+      "id": 9
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "Content",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "JsonTypiCode"
+  }
+}
